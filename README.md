@@ -1,5 +1,7 @@
 # WDCC2026
 
+检索素材文件。
+
 This repository contains compact, project-local Agent Skills for a future batch
 video-material search and Excel-indexing workflow. It does not include video
 analysis results, model weights, or third-party source trees.

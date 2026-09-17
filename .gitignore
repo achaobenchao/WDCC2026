@@ -55,3 +55,15 @@ database/*.sqlite3
 .DS_Store
 .idea/
 .vscode/
+
+# Existing repository defaults retained during initial-history merge
+.alcache/
+.alpackages/
+.snapshots/
+.output/
+*.app
+rad.json
+*.g.xlf
+*.bclicense
+*.flf
+TestResults.xml
