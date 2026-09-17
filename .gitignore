@@ -56,6 +56,9 @@ database/*.sqlite3
 .idea/
 .vscode/
 
+# Local convenience package for manual GitHub upload; source files live above.
+GitHub上传包_WDCC2026/
+
 # Existing repository defaults retained during initial-history merge
 .alcache/
 .alpackages/
