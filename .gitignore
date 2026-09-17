@@ -1,0 +1,57 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Tool/model caches and local configuration
+.cache/
+cache/
+output/
+logs/
+.paddleocr/
+model-cache/
+*.bin
+*.onnx
+*.pdmodel
+*.pdparams
+*.safetensors
+*.env
+.env
+
+# Generated analysis artifacts
+outputs/
+transcripts/
+keyframes/
+*.wav
+
+# Local databases and spreadsheet imports (schema and source code remain tracked)
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Original media must remain on NAS/local storage, never in Git
+*.mp4
+*.mov
+*.mxf
+*.mts
+*.m2ts
+*.mkv
+*.avi
+*.webm
+*.flv
+*.wmv
+*.m4v
+*.ts
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
