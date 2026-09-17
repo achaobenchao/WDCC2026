@@ -1,0 +1,6 @@
+# Install the platform-appropriate PaddlePaddle runtime first; see README.md.
+openpyxl>=3.1
+opencv-python>=4.8
+scenedetect>=0.6.4
+faster-whisper>=1.1
+paddleocr>=3.0
